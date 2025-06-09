@@ -1,0 +1,8 @@
+# Modify the project name
+dbt_test_project:
+  outputs:
+    dev:
+      # Change the database type
+      type: duckdb
+      path: dbt.duckdb
+  target: dev

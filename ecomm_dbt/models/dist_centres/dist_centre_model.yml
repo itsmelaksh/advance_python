@@ -1,0 +1,5 @@
+
+
+models:
+  - name: load_dist_centres
+    description: loading distribution centre data

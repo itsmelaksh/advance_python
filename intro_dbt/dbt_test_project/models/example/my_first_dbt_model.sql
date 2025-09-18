@@ -1,3 +1,4 @@
+-- noinspection SqlNoDataSourceInspectionForFile
 
 /*
     Welcome to your first dbt model!
